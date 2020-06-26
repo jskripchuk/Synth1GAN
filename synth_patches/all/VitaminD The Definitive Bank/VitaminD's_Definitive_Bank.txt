@@ -1,0 +1,24 @@
+The Definitive Bank
+by Vitamin D
+   vitamind@inbox.lv
+
+128 Patch-Bank for Synth1
+
+notes:
+
+LD = Lead
+BA = Bass
+KD = Kick Drum
+PC = Percussion
+PD = Pad
+FX = well.. you know ;c)
+
+
+KD - all play at C-5
+FX - most are designed for you to hold down a key
+LD - most (if not all) work just fine w/o the arp enabled..;c)
+BA - tuned down.. so most play at C-4 or C-5
+PD - I love them :cD
+
+
+enjoy :c)

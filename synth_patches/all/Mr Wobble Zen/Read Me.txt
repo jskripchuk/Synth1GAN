@@ -1,0 +1,12 @@
+Mr Wobble Vol 1 is the original bank ("Mr Wobble's Patchbank"), but NB! some of the patches have been tweaked since it was first released - mostly just a bit of eqing, balancing etc, but one or two are significantly different. In the unlikely event that you've actually used any of these patches in a project, it might be a good idea to back up the original Mr Wobble patchbank.
+
+The patches were created in Synth1 v1.12. Some will sound quite different, or not work at all, if loaded into a previous version.
+
+"at", "mw", and "pb" in a patchname refer to aftertouch, modwheel and pitchbend respectively and indicate that use of these will do something to a patch. Where followed by "!", use of modulation is particularly recommended. Aftertouch is used in a lot of patches and may not always be indicated with an "at", so it's worth trying aftertouch on all patches.
+
+There's a load of newer (and, imo, better) Mr Wobble patches uploaded to Big Tick's Zen database. 
+
+http://www.bigtickaudio.com/zen/about-zen
+
+Use these patches how you like, but ***please don't redistribute them*** without my permission. ;)
+

@@ -1,0 +1,13 @@
+--------------------------------------------------------------------
+   Bank: Atonal Abstractions
+   VSTi: Synth 1
+ Author: aMUSEd
+         Another synth one bank but with an emphasis on evolving,
+         strained, atonal and detuned sounds. You can get this synth
+         to do anything - this is pushing it to the limits. Careful
+         with the volume controls (some are meant to be very loud,
+         some are quiet and subtle and have tiny voices in the
+         background).
+--------------------------------------------------------------------
+Brought to you by K-v-R Audio Plugin Resources - www.kvr-vst.com
+--------------------------------------------------------------------

@@ -1,0 +1,11 @@
+--------------------------------------------------------------------
+   Bank: Synthhunter
+   VSTi: Synth 1
+ Author: Christoph Mueller
+Contact: synthhunter@compuserve.de
+         These patches are created by Christoph Mueller. Feel free
+         to redistribute them and to use them in your own music.
+--------------------------------------------------------------------
+Brought to you by K-v-R Audio Plugin Resources - www.kvr-vst.com
+--------------------------------------------------------------------
+

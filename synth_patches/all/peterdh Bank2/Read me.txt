@@ -1,0 +1,17 @@
+Dear reader,
+
+This soundset contains 100 patches for the VST(i)/DXi, Synth1V1.07. In this soundset you'll find synthbasses, synth brass, arpeggio's,
+gated sounds, TB-103 sounds, soundfx  and more.
+Genre: Mainly Dance. 
+Color of the sound categories: Lead = purple, Bass = orange, Strings/pads = blue, Arpeggio's/Gated sounds = yellow, Sound fx = green,
+Other = pink
+
+Installation: Copy the files (from oo1.sy1 to  100.sy1 incl.) into one of the soundbank folders (soundbank 00-09) of Synth1,
+which can be found in C:\Program Files\Synth1
+
+You are not allowed to distribute these files without explicit prior written permission from the author.
+I take no responsibility for any damage, which may occur as a result of installing or using this bank.
+
+Enjoy!
+
+Contact: peterdenherder@hetnet.nl
