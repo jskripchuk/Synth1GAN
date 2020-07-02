@@ -1,1 +1,0 @@
-# This Synth1 Bank Does Not Exist
